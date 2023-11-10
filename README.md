@@ -1,2 +1,2 @@
 # uob-rmet
-Repository for Gitbub demo report (RMET Module)
+Repository for Gitbub demo (RMET Module)
